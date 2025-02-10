@@ -43,7 +43,7 @@ const Login = () => {
                     <div className="relative flex flex-col justify-center rounded-md bg-white/60 px-6 py-20 backdrop-blur-lg dark:bg-black/50 lg:min-h-[758px]">
                         <div className="mx-auto w-full max-w-[440px]">
                             <div className="mb-10">
-                                <h1 className="text-3xl font-extrabold uppercase !leading-snug text-primary md:text-4xl">Sign in</h1>
+                                <h1 className="text-3xl font-extrabold uppercase !leading-snug text-primary md:text-4xl">bangayi pipeline</h1>
                                 <p className="text-base font-bold leading-normal text-white-dark">Enter your email and password to login</p>
                             </div>
                             <form className="space-y-5 dark:text-white" onSubmit={handleSubmit}>
